@@ -6,6 +6,8 @@ Very simple object placement tool for Unity.
 * Every placement method also requires random distribution. Poisson Disk Algorithm has been used for the random distribution in Circle and Rectangular Placement modes though any custom algorithm can be integrated.
 * The secondary purpose of this tool was to showcase the use of Custom Editor and Custom Property Drawers, therefore, the simple implementation of those features can also be observed in the project.
 
+* Assets used in this project can be viewed [here](https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature-free-medieval-fantasy-series-187052).
+
 # Example Screenshots
 
 ### Even Rectangle
